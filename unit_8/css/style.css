@@ -202,7 +202,7 @@ i {
 	}
 }
 
-@media only screen and (max-width 310px){
+@media only screen and (max-width: 310px){
 	h1 {
 		letter-spacing: 0px;
 }
