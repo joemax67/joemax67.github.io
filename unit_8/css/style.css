@@ -196,13 +196,9 @@ i {
 	}
 }
 
-@media only screen and (max-width: 480px) {
-	.square {
-		display: block;
-		padding: 2%;
-		background-color: white;
-		width: 80%;
-		margin: 0 8%;
+@media only screen and (width: 480px) {
+	#services {
+		font-size: 1.1em ;
 	}
 }
 
