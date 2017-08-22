@@ -4,9 +4,8 @@
 
 body {
 	text-align: center;
-	background: url("https://farm5.staticflickr.com/4294/35776806731_9411afb983_o.jpg");
+	background: url("https://farm5.staticflickr.com/4294/35776806731_9411afb983_o.jpg") no-repeat center center fixed;
 	background-size: 100%;
-	background-repeat: no-repeat;
 	background-size: cover;
 }
 
@@ -49,7 +48,7 @@ a.green:hover{
 	color: black;
 }
 
-a::hover {
+a:hover {
 	color: white;
 }
 
@@ -57,6 +56,9 @@ i {
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;	
 }
 
+.wrapper{
+	overflow-x: hidden;
+}
 .square {
 	display: inline;
 	padding: 2%;
@@ -97,6 +99,7 @@ i {
 	color: #347F33;
 	font-family: 'Nixie One', cursive;
 	margin-top: -2%;
+	font-weight: 800;
 }
 
 #two_column {
@@ -128,7 +131,7 @@ i {
 	margin-top: 5%;
 	font-family: 'Nixie One', cursive;
 	color: #347F33;
-	font-weight: 500;
+	font-weight: 800;
 	font-style: italic;
 	text-decoration: none;
 	clear: both;
@@ -192,7 +195,3 @@ i {
 		margin: 0 8%;
 	}
 }
-
-
-
-
