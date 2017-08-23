@@ -199,14 +199,13 @@ i {
 	.square {
 		display: block;
 		background-color: white;
-		width: 50%;
-		margin: 0 auto;
+		width: 75%;
+		margin-right: 2%;
 	}
 	
 	.right {
-		width: 75%;
-		margin-right: 2%;
-		margin-left: 1%;
+		width: 50%;
+		margin: 0 auto;
 	}
 }
 
