@@ -197,11 +197,11 @@ i {
 
 @media only screen and (min-width: 414px) and (max-width: 736px) {
 	.square {
-		display: block;
-		padding: 3%;
-		background-color: white;
-		width: 80%;
-		margin: 0 7.5%
+		square {
+			display: block;
+			background-color: white;
+			width: 80%;
+			margin: 0 auto;
 	}
 }
 
