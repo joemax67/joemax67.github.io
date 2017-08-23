@@ -192,6 +192,7 @@ i {
 		background-color: white;
 		width: 80%;
 		margin: 0 auto;
+		
 	}
 }
 
@@ -202,7 +203,7 @@ i {
 		background-color: white;
 		width: 72%;
 		margin: 0 8%;
-	
+	}
 	.right {
 		width: 50%;
 		margin: 0 auto;
