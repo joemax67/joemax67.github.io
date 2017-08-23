@@ -199,10 +199,9 @@ i {
 @media only screen and (orientation:landscape) and (max-width: 480px) {
 	.square {
 		display: block;
-		padding: 2%;
 		background-color: white;
-		width: 80%;
-		margin: 0 8%;
+		width: 50%;
+		
 	}
 }
 
