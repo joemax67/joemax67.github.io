@@ -196,7 +196,7 @@ i {
 	}
 }
 
-@media only screen and (max-width: 480px) and (orientation: landscape) {
+@media only screen and (min-width: 414px) and (max-width: 736px) {
 	.square {
 		display: block;
 		padding: 2%;
