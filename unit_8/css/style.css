@@ -189,10 +189,10 @@ i {
 @media only screen and (max-width: 491px) {
 	.square {
 		display: block;
-		padding: 2%;
+		padding: 3%;
 		background-color: white;
 		width: 80%;
-		margin: 0 6%;
+		margin: 0 7.5%;
 	}
 }
 
